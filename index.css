@@ -21,7 +21,7 @@ body, html {
 }
 .foto4 {
   background-image: url(imagenes/foto4.jpg);
-  min-height: 100%;
+  min-height: 40%;
 }
 .foto1, .foto2, .foto3, .foto4 {
   position: relative;
